@@ -33,9 +33,9 @@ public class SmsService {
      */
     static final String DOMAIN = "dysmsapi.aliyuncs.com";
 
-    static final String ACCESS_KEY_ID = "LTAI8GnEDLD1eAjY1";
+    static final String ACCESS_KEY_ID = "";
 
-    static final String ACCESS_KEY_SECRET = "5OntQLGjP7D898YS66gi2B2BPAVQQs";
+    static final String ACCESS_KEY_SECRET = "";
 
     public static SendSmsResponse sendSms() throws ClientException {
 
